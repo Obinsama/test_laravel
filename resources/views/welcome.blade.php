@@ -82,7 +82,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                   Le commit de kirra
                 </div>
 
                 <div class="links">
