@@ -26,7 +26,7 @@
 
 <div class="container">
 
-    <h1>Laravel 5.7 Ajax Request example</h1>
+    <h1>Laravel nguetede bbbbbbbbbbbbbbbbbb</h1>
 
 
 
