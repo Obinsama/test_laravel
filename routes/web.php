@@ -21,7 +21,8 @@ Route::get('/test', function () {
 Route::get('/', [
     'as'=>'layout',
     'uses'=>'LinkController@layout'
-]);
+])->middleware('auth');
+
 Route::get('/add', [
     'as'=>'addLink',
     'uses'=>'LinkController@addLink'
